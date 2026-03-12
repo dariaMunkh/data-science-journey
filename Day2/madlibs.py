@@ -11,3 +11,4 @@ verb1 = input("Enter a verb: ")
 print(f"I like to watch {adj1} stories")
 print(f"At my school I saw a(n) {noun1}")
 print(f"Today I went to {verb1}")
+
